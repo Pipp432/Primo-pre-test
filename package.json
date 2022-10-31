@@ -1,0 +1,26 @@
+{
+	"name": "primo-pre-test",
+	"version": "1.0.0",
+	"description": "A github repository used for submission of PRIMO pre-test",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Pipp432/Primo-pre-test.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Pipp432/Primo-pre-test/issues"
+	},
+	"homepage": "https://github.com/Pipp432/Primo-pre-test#readme",
+	"devDependencies": {
+		"@types/jest": "^29.2.0",
+		"jest": "^29.2.2",
+		"ts-jest": "^29.0.3",
+		"typescript": "^4.8.4"
+	}
+}
